@@ -1,0 +1,85 @@
+header{
+    font: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    padding: 10px;
+    width: auto;
+}
+body{
+    background-color: lightgray;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 1px;
+    width: auto;
+
+
+}
+h1{
+    font: caption;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+
+
+}
+p{
+    text-align: left;
+    padding: 1px;
+    border: 0px solid black;
+    font-size: 15px;
+    font-family: 'arial';
+
+}
+div{
+    border: 1px solid black;
+    width: auto;
+    margin: 2px 1px;
+    border-radius: 5px;
+}
+a{
+    width: auto;
+}
+img{
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 3px 0px 0px 10px;
+}
+#atikur{
+    font: bold ;
+    color:blue;
+    font-size: large;
+    
+} 
+.blog{
+    color: purple;
+}
+.tour{
+    font: bold;
+    color: blue;
+}
+#me{
+    font: bold;
+}
+a:hover{
+color: blue;
+background-color: lightcyan;
+font: bold;
+font-size: 25px;
+}
+input:focus{
+    color: blue;
+    background-color: lightcyanrfg;
+}
+input:focus{
+    color: green;
+    font-size: 20px;
+}
+button:hover{
+    color: red;
+    background-color: lightblue;
+    font-size: 20px;
+}
+a:visited{
+    color: blue;
+}
